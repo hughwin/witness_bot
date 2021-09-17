@@ -1,3 +1,7 @@
+from dotenv import load_dotenv
+
+load_dotenv()
+
 
 def start():
     return 1
