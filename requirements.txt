@@ -21,3 +21,5 @@ unicodedata2==13.0.0.post2
 websockets==10.0
 wsaccel==0.6.3
 zipp==3.5.0
+praw~=7.4.0
+python-dotenv~=0.19.0
